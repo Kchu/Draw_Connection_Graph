@@ -1,0 +1,567 @@
+{
+  "nodes": [
+    {
+      "color": "#DF8DB8",
+      "label": "新加坡",
+      "attributes": {},
+      "y": 0.0,
+      "x": 10.0,
+      "id": "新加坡",
+      "size": 12
+    },
+    {
+      "color": "#DC4E47",
+      "label": "法国",
+      "attributes": {},
+      "y": 3.5227423327508993,
+      "x": 9.358968236779347,
+      "id": "法国",
+      "size": 6
+    },
+    {
+      "color": "#961364",
+      "label": "德国",
+      "attributes": {},
+      "y": 6.5938467197147315,
+      "x": 7.518057291408951,
+      "id": "德国",
+      "size": 36
+    },
+    {
+      "color": "#195B51",
+      "label": "希腊",
+      "attributes": {},
+      "y": 8.819578068849475,
+      "x": 4.7132836417374,
+      "id": "希腊",
+      "size": 30
+    },
+    {
+      "color": "#DB91D6",
+      "label": "西班牙",
+      "attributes": {},
+      "y": 9.914583481916864,
+      "x": 1.3042370873814555,
+      "id": "西班牙",
+      "size": 24
+    },
+    {
+      "color": "#B5D515",
+      "label": "英国",
+      "attributes": {},
+      "y": 9.738476308781953,
+      "x": -2.2720209469308688,
+      "id": "英国",
+      "size": 24
+    },
+    {
+      "color": "#71EAEC",
+      "label": "意大利",
+      "attributes": {},
+      "y": 8.31383460778683,
+      "x": -5.556991462506127,
+      "id": "意大利",
+      "size": 12
+    },
+    {
+      "color": "#BF6A19",
+      "label": "瑞士",
+      "attributes": {},
+      "y": 5.823306495240819,
+      "x": -8.1295203709989,
+      "id": "瑞士",
+      "size": 6
+    },
+    {
+      "color": "#BBB95A",
+      "label": "奥地利",
+      "attributes": {},
+      "y": 2.5861934966111084,
+      "x": -9.659793123979748,
+      "id": "奥地利",
+      "size": 12
+    },
+    {
+      "color": "#ED6417",
+      "label": "韩国",
+      "attributes": {},
+      "y": -0.9824859374510825,
+      "x": -9.951619033238304,
+      "id": "韩国",
+      "size": 12
+    },
+    {
+      "color": "#D532DC",
+      "label": "美国",
+      "attributes": {},
+      "y": -4.4252044329485205,
+      "x": -8.967584163341472,
+      "id": "美国",
+      "size": 90
+    },
+    {
+      "color": "#F179FE",
+      "label": "瑞典",
+      "attributes": {},
+      "y": -7.300583608392995,
+      "x": -6.833848035833362,
+      "id": "瑞典",
+      "size": 12
+    },
+    {
+      "color": "#9A9F7E",
+      "label": "丹麦",
+      "attributes": {},
+      "y": -9.23998158723188,
+      "x": -3.8239691771268025,
+      "id": "丹麦",
+      "size": 12
+    },
+    {
+      "color": "#A2C627",
+      "label": "波兰",
+      "attributes": {},
+      "y": -9.99475522827284,
+      "x": -0.3238331775972473,
+      "id": "波兰",
+      "size": 6
+    },
+    {
+      "color": "#D537BA",
+      "label": "澳大利亚",
+      "attributes": {},
+      "y": -9.46813775592609,
+      "x": 3.217820292497218,
+      "id": "澳大利亚",
+      "size": 6
+    },
+    {
+      "color": "#C36ED3",
+      "label": "爱尔兰",
+      "attributes": {},
+      "y": -7.727644875559877,
+      "x": 6.346928759426339,
+      "id": "爱尔兰",
+      "size": 6
+    },
+    {
+      "color": "#4E79C9",
+      "label": "中国",
+      "attributes": {},
+      "y": -4.9964188311690245,
+      "x": 8.662320639617283,
+      "id": "中国",
+      "size": 66
+    }
+  ],
+  "edges": [
+    {
+      "sourceID": "新加坡",
+      "attributes": {},
+      "targetID": "美国",
+      "size": 10
+    },
+    {
+      "sourceID": "新加坡",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "新加坡",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "新加坡",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "法国",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "法国",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "法国",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "法国",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "德国",
+      "attributes": {},
+      "targetID": "瑞典",
+      "size": 10
+    },
+    {
+      "sourceID": "德国",
+      "attributes": {},
+      "targetID": "丹麦",
+      "size": 10
+    },
+    {
+      "sourceID": "德国",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "德国",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "希腊",
+      "attributes": {},
+      "targetID": "丹麦",
+      "size": 10
+    },
+    {
+      "sourceID": "希腊",
+      "attributes": {},
+      "targetID": "德国",
+      "size": 10
+    },
+    {
+      "sourceID": "希腊",
+      "attributes": {},
+      "targetID": "美国",
+      "size": 10
+    },
+    {
+      "sourceID": "希腊",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "西班牙",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "西班牙",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "西班牙",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "西班牙",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "英国",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "英国",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "英国",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "英国",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "意大利",
+      "attributes": {},
+      "targetID": "韩国",
+      "size": 10
+    },
+    {
+      "sourceID": "意大利",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "意大利",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "意大利",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "瑞士",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "瑞士",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "瑞士",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "瑞士",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "奥地利",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "奥地利",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "奥地利",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "奥地利",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "韩国",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "韩国",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "韩国",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "韩国",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "美国",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "美国",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "美国",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "美国",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "瑞典",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "瑞典",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "瑞典",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "瑞典",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "丹麦",
+      "attributes": {},
+      "targetID": "英国",
+      "size": 10
+    },
+    {
+      "sourceID": "丹麦",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "丹麦",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "丹麦",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "波兰",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "波兰",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "波兰",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "波兰",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "澳大利亚",
+      "attributes": {},
+      "targetID": "中国",
+      "size": 10
+    },
+    {
+      "sourceID": "澳大利亚",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "澳大利亚",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "澳大利亚",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "爱尔兰",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "爱尔兰",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "爱尔兰",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "爱尔兰",
+      "attributes": {},
+      "targetID": NaN,
+      "size": 10
+    },
+    {
+      "sourceID": "中国",
+      "attributes": {},
+      "targetID": "美国",
+      "size": 10
+    },
+    {
+      "sourceID": "中国",
+      "attributes": {},
+      "targetID": "法国",
+      "size": 10
+    },
+    {
+      "sourceID": "中国",
+      "attributes": {},
+      "targetID": "意大利",
+      "size": 10
+    },
+    {
+      "sourceID": "中国",
+      "attributes": {},
+      "targetID": "韩国",
+      "size": 10
+    }
+  ]
+}
